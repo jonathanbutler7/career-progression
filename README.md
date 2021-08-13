@@ -85,12 +85,12 @@ The point of this document is to outline a path of learning that will allow me t
 
 ## July
 
-- `design-system` documentation website/subpackages
-  - Understand/communicate tradeoffs between [Docz](https://www.docz.site/) and [Docusaurus](https://docusaurus.io/docs)
+- ~~`design-system` documentation website/subpackages~~
+  - ~~Understand/communicate tradeoffs between [Docz](https://www.docz.site/) and [Docusaurus](https://docusaurus.io/docs)~~
   - Automate/optimize `design-system` deployment
   - Deploy a CLI that runs using GitHub actions
 - Algos
-  - Graphs (BFS & DFS)
+  - ~~Graphs (BFS & DFS)~~
 
 ## August
 
